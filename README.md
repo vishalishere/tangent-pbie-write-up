@@ -1,3 +1,5 @@
+![Logo](images/tangent-solutions-logo.png)
+
 In May, Tangent Solutions and Microsoft gathered for a hackfest. Our goal was to explore and integrate Power BI into their own solutions. This included overcoming a couple of challenges, such as integrating into a solution built with PHP and ingesting data into Power BI from complex and dynamic data sources.
 
 Because of the hackfest, the customer can now easily ingest data into Power BI through its new data feed platform and provide beautiful interactive reports in their existing applications thanks to Power BI. They explored the capabilities of Power BI as a platform for providing more interactive and up to date reports to their current B2B customers. During this process, they decided that the complex data structures modern eCommerce solutions tend to use - is a perfect use case for Power BI.
